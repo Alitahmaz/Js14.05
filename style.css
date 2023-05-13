@@ -1,0 +1,21 @@
+**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+    background-color: rgb(77, 190, 224);
+ }
+
+ .card{
+    background-color: white;
+    margin: 100px;
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+ }
+ input_value{
+    display: flex;
+    height: 30px;
+ }
